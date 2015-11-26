@@ -1,6 +1,6 @@
 # Geo Utilities
 
-This package is a Go implementation of the [geo-utils node package](). It contains multiple utilies to manage GEO data such as countries, languages and US states.
+This package is a Go implementation of the [geo-utils node package](https://github.com/GitbookIO/geo-utils). It contains multiple utilies to manage GEO data such as countries, languages and US states.
 
 ## Install
 
